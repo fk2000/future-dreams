@@ -5,9 +5,9 @@ console.log('hello world :o');
 
 // our default array of dreams
 const dreams = [
-  'Find and count some sheep',
-  'Climb a really tall mountain',
-  'Wash the dishes'
+  '羊を数え切りたい',
+  '本当に高い山を登る',
+  'お皿を洗う'
 ];
 
 // define variables that reference elements on our page
